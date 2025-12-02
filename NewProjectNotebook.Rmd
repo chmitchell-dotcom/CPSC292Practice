@@ -12,3 +12,7 @@ This is my practice notebook
 plot(mtcars$mpg, mtcars$wt)
 ```
 
+```{r}
+plot(mtcars$am, mtcars$carb)
+```
+
