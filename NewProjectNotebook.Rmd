@@ -3,6 +3,9 @@ title: "R Notebook"
 author: "Chloe Mitchell" 
 output: html_notebook
 ---
+```{r}
+getwd()
+```
 
 #Practice Notebook
 
