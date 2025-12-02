@@ -15,4 +15,7 @@ plot(mtcars$mpg, mtcars$wt)
 ```{r}
 plot(mtcars$am, mtcars$carb)
 ```
+```{r}
+plot(mtcars$disp, mtcars$cyl)
+```
 
